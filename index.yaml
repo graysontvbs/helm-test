@@ -3,6 +3,16 @@ entries:
   helm-test:
   - apiVersion: v2
     appVersion: 1.20.1
+    created: "2023-11-12T15:01:40.421544886Z"
+    description: A Helm chart for Kubernetes
+    digest: 505b5167e97bba3591118adb0e469ad498a6781110b85f27690673e35af034c3
+    name: helm-test
+    type: application
+    urls:
+    - https://github.com/graysontvbs/helm-test/releases/download/helm-test-0.2.0/helm-test-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.20.1
     created: "2023-11-12T14:20:55.55279326Z"
     description: A Helm chart for Kubernetes
     digest: b732cb29bbf87b10c0744c8c101e0625e5d29191ff7600ad38139f1028f85acb
@@ -21,4 +31,4 @@ entries:
     urls:
     - https://github.com/graysontvbs/helm-test/releases/download/helm-test-0.1.1/helm-test-0.1.1.tgz
     version: 0.1.1
-generated: "2023-11-12T14:20:55.55280096Z"
+generated: "2023-11-12T15:01:40.421556076Z"
